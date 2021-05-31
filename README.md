@@ -19,13 +19,17 @@
 
 - 🔭 Currently working as a Sr. AI Engineer at Integrated Management Systems, Hong Kong
 
-- 👯 I’m looking to collaborate on **anything free and open source**
+- 👯 Taught AI, Data Science & Analytics to 2000+ students
+
+- 🎯 Helped 7+ startups grow by providing Analytics consulting
+
+- ✈️ Travelled 10+ countries: :ecuador: :ecuador: :ecuador:
 
 - 👨‍💻 All of my projects are available at [https://github.com/pik1989](https://github.com/pik1989)
 
-- 💬 How to reach me: **pattnaiksatyajit89@gmail.com**
+- 💬 Reach me at **pattnaiksatyajit89@gmail.com**
 
-- 🧠 Currently working in the Cyber Security domain
+- 🧠 Experience working in several domains
 
 <p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=pik1989&show_icons=true" alt="pik1989" /> </p>
 
