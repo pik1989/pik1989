@@ -33,7 +33,7 @@
 ## 📺 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
-[![Announcing Power BI in Jupyter notebooks | Latest PowerBI Update](https://user-images.githubusercontent.com/34673684/120138539-3f741b00-c209-11eb-962f-a501c6deefcc.png)](https://www.youtube.com/watch?v=_pm0LsMQhcg "Announcing Power BI in Jupyter notebooks | Latest PowerBI Update")
+[![Announcing Power BI in Jupyter notebooks | Latest PowerBI Update](https://user-images.githubusercontent.com/34673684/120138943-11dba180-c20a-11eb-982d-484d35bfb838.png)](https://www.youtube.com/watch?v=_pm0LsMQhcg "Announcing Power BI in Jupyter notebooks | Latest PowerBI Update")
 [![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA&title=FFFFFF)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")<!-- YOUTUBE:END -->
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1)
