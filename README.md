@@ -1,10 +1,10 @@
 <h3 align="center">
   Welcome to Satyajit Pattnaik's profile!
-  <img src="https://media2.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif?cid=790b7611070614e7690ee44dbabb9a9f3de8880bf85274f7&rid=giphy.gif&ct=g" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Keynote+Speaker;YouTuber;Trainer;10%2B+years+of+industrial+experience)](https://git.io/typing-svg)
-
+</p>
 <!-- Badges template - https://github.com/badges/shields -->
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
