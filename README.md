@@ -8,8 +8,6 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;Technical+Trainer%2C+Blogger+%26+Keynote+Speaker;10%2B+years+of+coding+experience;6%2B+years+of+relevant+experience+in+AI%2C+Data+Science+%26+Analytics;Always+learning+new+things)](https://git.io/typing-svg)
-
 - 🔭 Currently working as a Sr. AI Engineer at Integrated Management Systems, Hong Kong
 
 - 👯 I’m looking to collaborate on **anything free and open source**
