@@ -6,8 +6,11 @@
 </p>
 
 <p align="center">
+   <a href="https://github.com/pik1989">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pik1989?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1">
     <img alt="Youtube Subscribers" title="Subscriber me on YouTube" href="https://www.youtube.com/channel/UC-HLXw5cFC-7zqaXqTIlj-g" src="https://img.shields.io/youtube/channel/subscribers/UC-HLXw5cFC-7zqaXqTIlj-g?style=for-the-badge"/></a>
+  <a href="https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1">
     <img alt="Youtube Views" title="YouTube Views" href="https://www.youtube.com/channel/UC-HLXw5cFC-7zqaXqTIlj-g" src="https://img.shields.io/youtube/channel/views/UC-HLXw5cFC-7zqaXqTIlj-g?style=for-the-badge"/></a>
 </p>
 
