@@ -13,7 +13,7 @@
 
 - 🧠 Currently working in the Cyber Security domain
 
-<p align="left"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=pik1989&show_icons=true" alt="pik1989" /> </p>
+<p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=pik1989&show_icons=true" alt="pik1989" /> </p>
 
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
