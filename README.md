@@ -29,13 +29,6 @@
 
 <p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=pik1989&show_icons=true" alt="pik1989" /> </p>
 
-
-## 📺 Latest YouTube videos
-
-<!-- YOUTUBE:START -->
-[![Announcing Power BI in Jupyter notebooks | Latest PowerBI Update](https://user-images.githubusercontent.com/34673684/120139108-5b2bf100-c20a-11eb-95ad-caca225b59a5.png)](https://www.youtube.com/watch?v=_pm0LsMQhcg "Announcing Power BI in Jupyter notebooks | Latest PowerBI Update")
-[![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA&title=FFFFFF)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")<!-- YOUTUBE:END -->
-
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1)
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
