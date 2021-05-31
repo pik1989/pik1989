@@ -23,7 +23,7 @@
 
 - 🎯 Helped 7+ startups grow by providing Analytics consulting
 
-- ✈️ Travelled 10+ countries: :ecuador: :ecuador: :ecuador:
+- ✈️ Travelled 10+ countries: ec
 
 - 👨‍💻 All of my projects are available at [https://github.com/pik1989](https://github.com/pik1989)
 
