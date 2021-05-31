@@ -5,7 +5,7 @@
   <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;Trainer%2C+Blogger+%26+Speaker;10%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
-[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/c/SatyajitPattnaik)](https://www.youtube.com/c/SatyajitPattnaik) [![Instagram Badge](https://img.shields.io/badge/-@maddhruv-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/pik1989)](https://instagram.com/pik1989) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyajitpattnaik/)](https://www.linkedin.com/in/satyajitpattnaik/)
+[![YouTube Badge](https://img.shields.io/badge/-@Satyajit%Pattnaik-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/c/SatyajitPattnaik)](https://www.youtube.com/c/SatyajitPattnaik) [![Instagram Badge](https://img.shields.io/badge/-@maddhruv-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/pik1989)](https://instagram.com/pik1989) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyajitpattnaik/)](https://www.linkedin.com/in/satyajitpattnaik/)
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pattnaiksatyajit89@gmail.com)](mailto:pattnaiksatyajit89@gmail.com)
 
 <p align="center">
