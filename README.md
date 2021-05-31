@@ -18,13 +18,13 @@
 
 
 
-- 🔭 Currently working as a Sr. AI Engineer at Integrated Management Systems, Hong Kong
+- 🔭 Currently working as a Senior AI Engineer at Integrated Management Systems, Hong Kong
 
 - 👯 Taught AI, Data Science & Analytics to 2000+ students
 
-- 🎯 Helped 7+ startups grow by providing Analytics consulting
+- 🎯 Helped 7+ startups grow by providing AI & Analytics consulting
 
-- ✈️ Travelled 10+ countries: ![image](https://user-images.githubusercontent.com/34673684/120140056-4bada780-c20c-11eb-905b-d269500d9c73.png)
+- ✈️ Travelled 10+ countries
 
 - 👨‍💻 All of my projects are available at [https://github.com/pik1989](https://github.com/pik1989)
 
