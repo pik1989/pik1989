@@ -34,6 +34,4 @@
 
 <p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=pik1989&show_icons=true" alt="pik1989" /> </p>
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1)
-
-_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1) my channel to learn something new every week :)
