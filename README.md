@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/34673684/120130692-60347480-c1f9-11eb-9d6b-13b476120ae3.png" width="40px" />, I'm Satyajit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Satyajit</h1>
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Data Scientist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p>
 
 - 🔭 I’m currently working on **some of my side projects :P**
