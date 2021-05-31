@@ -7,7 +7,7 @@
 
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pik1989?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    <img alt="subscribers" title="Subscriber me on YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC-HLXw5cFC-7zqaXqTIlj-g?style=social?color=red&labelColor=red&style=for-the-badge&logo=youtube&label=Subscribe"/></a>
+    <img alt="subscribers" title="Subscriber me on YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC-HLXw5cFC-7zqaXqTIlj-g?style=for-the-badge"/></a>
 </p>
 
 
