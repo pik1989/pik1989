@@ -6,13 +6,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/github/followers/pik1989?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> 
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel"/></a> 
-  <a href="https://www.youtube.com/c/SatyajitPattnaik">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/github/followers/pik1989?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> 
-    <img alt="youtube views" title="YouTube views"/></a> 
-  <a href="https://github.com/pik1989">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pik1989?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
