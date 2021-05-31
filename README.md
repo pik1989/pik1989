@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Satyajit</h1>
 
-<h3 align="center">Data Scientist</h3>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;Technical+Trainer%2C+Blogger+%26+Keynote+Speaker;10%2B+years+of+coding+experience;6%2B+years+of+relevant+experience+in+AI%2C+Data+Science+%26+Analytics;Always+learning+new+things&center=true&width=380&height=45"></a>
