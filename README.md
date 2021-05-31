@@ -28,7 +28,7 @@
 - 🧠 Currently working in the Cyber Security domain
 <p align="center">
 <p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=pik1989&show_icons=true" alt="pik1989" /> </p>
-<p align="center">
+
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1)
-<p align="center">
+
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
