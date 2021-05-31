@@ -3,10 +3,7 @@
   <img src="https://media2.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif?cid=790b7611070614e7690ee44dbabb9a9f3de8880bf85274f7&rid=giphy.gif&ct=g" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Keynote+Speaker;YouTuber;Trainer;10%2B+years+of+industrial+experience)](https://git.io/typing-svg)
 
 <!-- Badges template - https://github.com/badges/shields -->
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
