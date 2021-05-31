@@ -16,7 +16,7 @@
 
 
 
-
+<p align="center">
 - 🔭 Currently working as a Sr. AI Engineer at Integrated Management Systems, Hong Kong
 
 - 👯 I’m looking to collaborate on **anything free and open source**
@@ -32,3 +32,4 @@
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1)
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
+</p>
