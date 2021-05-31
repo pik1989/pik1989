@@ -18,18 +18,17 @@
 
 <p align="center">
 - 🔭 Currently working as a Sr. AI Engineer at Integrated Management Systems, Hong Kong
-
+<p align="center">
 - 👯 I’m looking to collaborate on **anything free and open source**
-
+<p align="center">
 - 👨‍💻 All of my projects are available at [https://github.com/pik1989](https://github.com/pik1989)
-
+<p align="center">
 - 💬 How to reach me: **pattnaiksatyajit89@gmail.com**
-
+<p align="center">
 - 🧠 Currently working in the Cyber Security domain
-
+<p align="center">
 <p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=pik1989&show_icons=true" alt="pik1989" /> </p>
-
+<p align="center">
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/SatyajitPattnaik?sub_confirmation=1)
-
+<p align="center">
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
-</p>
