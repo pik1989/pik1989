@@ -18,11 +18,11 @@
 
 
 
-- 🔭 Currently working as a Senior AI Engineer at Integrated Management Systems, Hong Kong
+- 🔭 Currently working as Head of Data Science at Xccelerate, Hong Kong
 
-- 👯 Taught AI, Data Science & Analytics to 2000+ students
+- 👯 Taught AI, Data Science & Analytics to 2500+ students
 
-- 🎯 Helped 7+ startups grow by providing AI & Analytics consulting
+- 🎯 Helped 8+ startups grow by providing AI & Analytics consulting
 
 - ✈️ Travelled 10+ countries
 
