@@ -2,7 +2,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;Trainer%2C+Blogger+%26+Speaker;12%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;Trainer%2C+Blogger+%26+Speaker;10%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 
 
-- 🔭 Currently working as Head of Data Science at Xccelerate, Hong Kong
+- 🔭 Currently working as Lead Data Consultant, PALO IT, Hong Kong
 
-- 👯 Taught AI, Data Science & Analytics to 2500+ students
+- 👯 Taught AI, Data Science & Analytics to 7500+ students
 
 - 🎯 Helped 8+ startups grow by providing AI & Analytics consulting
 
